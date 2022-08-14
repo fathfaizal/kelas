@@ -2,9 +2,8 @@
   - membuat akun
   - membuat branch
   - melakukan merge
-  - membuat fork
 2 bulan ke depan aku akan belajar pemrograman web
-  - HTML
+  - HTML: struktur dasar, tabel, gambar, formulir
   - CSS
   - Javascript
 3 bulan ke depan aku membuat proyek web berkolaborasi dengan menggunakan git
