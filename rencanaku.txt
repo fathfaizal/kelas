@@ -1,4 +1,11 @@
 1 bulan ke depan aku akan belajar github
+  - membuat akun
+  - membuat branch
+  - melakukan merge
+  - membuat fork
 2 bulan ke depan aku akan belajar pemrograman web
+  - HTML
+  - CSS
+  - Javascript
 3 bulan ke depan aku membuat proyek web berkolaborasi dengan menggunakan git
 dst ...
