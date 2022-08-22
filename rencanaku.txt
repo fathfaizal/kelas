@@ -7,5 +7,8 @@
   - CSS: penulisan kode CSS, memformat teks dan tabel
   - Javascript: menulis kode Javascript, membuat pesan di browser
 3 bulan ke depan aku membuat proyek web berkolaborasi dengan menggunakan git
+  saya mengerjakan bagian HTML dan CSS
+  teman saya mengerjakan bagian Javascript
 4 bulan ke depan mempresentasikan hasil proyek
 dst ...
+
